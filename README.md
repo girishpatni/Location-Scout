@@ -1,4 +1,5 @@
-# Location-Scout
+# Location-Scout 
+![](https://img.shields.io/badge/.NET--blue.svg) ![](https://img.shields.io/badge/C%23--brightgreen.svg) 
   This is an application to scount information about a location.
   This information can be in the form of Crime Data, Weather Data, Business Data, News etc.(Version 1.0)
   
